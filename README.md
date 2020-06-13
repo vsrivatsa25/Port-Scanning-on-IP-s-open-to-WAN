@@ -15,4 +15,10 @@ pip install -r requirements.txt
 
 #### DISCLAIMER:
 
-> This project is only intended for educational/research purposes. Misuse of program may lead to legal and criminal consequences. Credit author if you use this for personal/academic use.
+>Use of this program means agreement to the following terms:
+
+1. Information provided in here are for educational purposes only. The author is no way responsible for any misuse of the information.
+
+2. I will not be responsible for any direct or indirect damage caused due to the usage of the information provided on this site.This project is only intended for educational/research purposes. Misuse of program may lead to legal and criminal consequences.
+
+3. Credit author if you use this for personal/academic use.
